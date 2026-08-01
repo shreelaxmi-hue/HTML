@@ -1,0 +1,33 @@
+SEO
+
+SEO is compulsory when:
+website is public
+you want search traffic
+
+Not needed for:
+practice projects
+private apps
+
+SEO rules:
+Better Title tag -standard title matches webpage 
+
+headings used 
+
+content-You wrote strong and long chemistry real content, This is BIG SEO advantage
+
+images with alt
+
+Semantic tags:<header> <main> <section> <article>,Excellent for SEO
+
+Meta description
+
+Viewport (mobile SEO)
+
+correct linking
+
+Too many <h1> tags: Only ONE <h1> others <h2> <h3>
+
+check sequence open and close tags means which open first, close last, like that 
+
+
+ 
